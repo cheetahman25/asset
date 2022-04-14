@@ -16,6 +16,7 @@ this tool is for fast doing of finding subdomain , it look like you writing this
 assetfinder --subs-only YOURDOMAIN.com | httpx -nc -title --content-length -status-code -silent >> YOURDOMAIN.com.txt<br>
 
 <h1>Tool usage </h1>
-./asset.sh YOURDOMAIN.com
+./asset.sh YOURDOMAIN.com<br>
+______________________________<br>
 
 created by Viking2022
