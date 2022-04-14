@@ -10,6 +10,7 @@ https://github.com/projectdiscovery/httpx <br>
 <h1> How to download it </h1>
 
 git clone https://github.com/viking2022/asset.git<br>
+cd asset<br>
 chmod 755 asset.sh<br>
 
 this tool is for fast doing of finding subdomain , it look like you writing this : <br>
